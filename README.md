@@ -16,12 +16,12 @@ IAM 的word数据集和word.txt需要提前下载解压 IAM 的word数据我们�
 
 ## 依赖的Python包: 
 
-    -tensorflow==1.3 
-    -pillow
-    -matplotlib
-    -opencv
-    -numpy
-    -matplotlib
+    - tensorflow==1.3 
+    - pillow
+    - matplotlib
+    - opencv
+    - numpy
+    - matplotlib
   
   
 ## 此程序使用Tensorflow的Estimator API 和 Dataset API，这两个新的API可以简化模型的创建
