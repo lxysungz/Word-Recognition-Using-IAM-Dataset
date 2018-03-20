@@ -23,7 +23,6 @@ IAM 的word数据集和word.txt需要提前下载解压 IAM 的word数据我们�
 + numpy
 + matplotlib
   
-  
 ## 此程序使用Tensorflow的Estimator API 和 Dataset API，这两个新的API可以简化模型的创建
 
 Estimator API 入门指南
