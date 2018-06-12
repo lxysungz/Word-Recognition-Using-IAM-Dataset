@@ -1,7 +1,7 @@
 # Word-Recognition-Using-IAM-Dataset
 ## 环境和数据要求
 
-IAM 的word数据集和word.txt需要提前下载解压 IAM 的word数据我们进行了清洗和预处理，只选出了满足一下条件的单词图片用于训练，
+IAM 的word数据集和word.txt需要提前下载解压 IAM 的word数据我们进行了清洗和预处理，只选出了满足以下条件的单词图片用于训练，
 
 + 标注正确的图片，IAM 说明文件word.txt里注明了哪些图片的标注是正确的
 + 标注为英语单词的图片 
