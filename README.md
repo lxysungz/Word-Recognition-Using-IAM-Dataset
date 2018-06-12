@@ -4,14 +4,14 @@
 
 Before execute IAM_Dataset_Preparation.ipynb, Unzip IAM dataset to get all word images and word.txt file
 What IAM_Dataset_Preparation.ipynb does:
-+ pick up those images that meet below conditions
-++ stated in word.txt that the word segment result is ok 
-++ Images of English word 
-++ number of images >50
-+ for each word, 
-++ convert its images to black/white binary image
-++ resize its images to 100 x 300
-++ randomly pick up 10% of its images for test, and the rest 90% for training
+- pick up those images that meet below conditions
+  - stated in word.txt that the word segment result is ok 
+  - Images of English word 
+  - number of images >50
+  - for each word, 
+     - convert its images to black/white binary image
+     - resize its images to 100 x 300
+     - randomly pick up 10% of its images for test, and the rest 90% for training
 As a result, there are total 39618 images for training and 4487 images for test, and total 166 different words.
 
 
