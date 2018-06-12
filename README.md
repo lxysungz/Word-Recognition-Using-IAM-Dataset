@@ -13,6 +13,7 @@ What IAM_Dataset_Preparation.ipynb does:
      - resize its images to 100 x 300
      - randomly pick up 10% of its images for test, and the rest 90% for training  
 
+
 As a result, there are total 39618 images for training and 4487 images for test, and total 166 different words.
 
 
